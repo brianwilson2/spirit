@@ -1,0 +1,5 @@
+<?         print "<div class=\"row\">";
+             print "<div class=\"col-sm-2 text-center\" style=\"background-color:yellow;\">Date</div><div class=\"col-sm-1 text-center\" style=\"background-color:yellow;\">time</div><div class=\"col-sm-1 text-center\" style=\"background-color:yellow;\">case number</div><div class=\"col-sm-1 text-center\" style=\"background-color:yellow;\">  VAT No</div><div class=\"col-sm-1 text-center\" style=\"background-color:yellow;\">VAT Vol</div><div class=\"col-sm-1 text-center\" style=\"background-color:yellow;\">order time end</div><div class=\"col-sm-1 text-center\" style=\"background-color:yellow;\">vat time end</div><div class=\"col-sm-1 text-center\" style=\"background-color:yellow;\">cases/hour</div><div class=\"col-sm-2 text-center\" style=\"background-color:yellow;\">Comment</div>";
+             //<div class=\"col-sm-1\" style=\"background-color:yellow;\">strength</div><div class=\"col-sm-1\" style=\"background-color:yellow;\">colour</div><div class=\"col-sm-1\" style=\"background-color:yellow;\">pH</div><div class=\"col-sm-1\" style=\"background-color:yellow;\">Haze</div>
+                   print "</row>";
+ ?>
